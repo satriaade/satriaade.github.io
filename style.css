@@ -26,3 +26,9 @@
   grid-column: 1 / span 3;
   grid-row: 3;
 }
+
+h1 {
+  font-size: 50px;
+  padding-top: 20px;
+  text-align: center;
+}
